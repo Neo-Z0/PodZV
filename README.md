@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 **Syntax**
 
-`python3 PodZV.py --cve-list <file.txt> [--output <output.csv>] [--pdf <report.pdf>] [--debug] [--quiet]`
+`python3 PodZV.py --cve-list <cves.txt> [--output <output.csv>] [--pdf <report.pdf>] [--debug] [--quiet]`
 
 
 ```bash
@@ -44,3 +44,6 @@ python PodZV.py --cve-list cves.txt --output results.csv --pdf report.pdf --debu
 python PodZV.py --cve-list cves.txt --quiet
 
 ```
+<div align="center">
+Built By Neo @ InfoSec-Porter
+</div>
