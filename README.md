@@ -45,5 +45,5 @@ python PodZV.py --cve-list cves.txt --quiet
 
 ```
 <div align="center">
-Built By Neo @ InfoSec-Porter
+Built By Neo
 </div>
